@@ -1,0 +1,16 @@
+{
+    "name": "pt67/milecoin",
+    "description": "A Coin thet lets work and determine the value of work.",
+    "type": "project",
+    "require": {
+        "laravel/laravel": "5.7"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "prakash thapa",
+            "email": "tprakash45@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
